@@ -6,3 +6,7 @@ iPadでコード書く練習も兼ねて作った
 
 ### wiki.py [/wiki.py]
 入力すればwiki出ます
+
+## copy_embeds.py [/pycord/copy_embeds.py]
+pycord完全に理解しに行こうと思ってやってました
+全チャンネルとスレッド検索します
